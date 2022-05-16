@@ -16,7 +16,9 @@ The data itself is assigned the following DOI:
 A description of files/directories appears below
 
 # data
-The `data' directory includs three .csv files that contain data specific for three enzymes. Each .csv file has the same format with thirteen columns as described below:
+The `data' directory includs three .csv files that contain data specific for three enzymes: gox.csv, hrp.csv, and lip.csv. These respectively correspond to the enzymes glucose oxidase, horseradish peroxidase, and lipase. 
+
+Each .csv file has the same format with thirteen columns as described below:
 A.) Polymer Number - numerical index identifier for a given copolymer. This is not generally used.
 B.) DP - This is the target degree of polymerization for copolymer synthesis. Synthetic procedures are constructed so as to achieve this number of monomers in a given copolymer.
 C.-J.) Each column here indicates the target fraction of incorporation for the given monomer type assigned to that column. There are eight monomer types: 2-(diethylamino)ethyl methacrylate, 2-hydroxypropyl methacrylate, 2-sulfopropyl methacrylate, butyl methacrylate,3-(dimethylamino)propyl methacrylate, methyl methacrylate, poly(ethylene glycol) methyl ether methacrylate, trimethylammonium chloride ethyl methacrylate 
