@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PPH_public
+message: >-
+  If you use, modify, or adapt the code within this
+  repository, please consider citing it as below.
+type: software
+authors:
+  - given-names: Michael A.
+    family-names: Webb
+    email: mawebb@princeton.edu
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0002-7420-4474'
+  - given-names: Roshan A.
+    family-names: Patel
+    email: roshanp@princeton.edu
+    affiliation: Princeton University
